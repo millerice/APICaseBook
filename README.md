@@ -7,3 +7,5 @@
 
 #### 2.[如何调用阿里云通义千问流式接口](https://github.com/millerice/APICaseBook/blob/main/doc/2.%E5%A6%82%E4%BD%95%E8%B0%83%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%B5%81%E5%BC%8F%E6%8E%A5%E5%8F%A3.md)
 
+#### 3.[阿里云OCR本地图片识别脚本](https://github.com/millerice/APICaseBook/tree/main/OCR)
+
